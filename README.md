@@ -1,7 +1,6 @@
 
 ###### Ola 🖖🏾<br>
-###### Sou desenvolvedor web jr. atuei na area de 2001 ate 2012 criando sites em Flash, Html/Css, Joomla e Wordpress.<br> Estou voltando para area de tecnologia recentemente e escolhi a _*Trybe*_ para me auxiliar nessa jornada. 👨🏾‍🎓 <p> <br> 
-
+###### Sou desenvolvedor web jr. atuei na área de 2001 até 2012 criando sites em Flash, Html/Css, Joomla e Wordpress.<br> Estou voltando para área de tecnologia recentemente e escolhi a _*Trybe*_ para me auxiliar nessa jornada. 👨🏾‍🎓 <p> <br> 
 
 <div align="center">
         <a href="https://github.com/gustavoUlisses">
