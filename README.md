@@ -1,6 +1,6 @@
 
 ###### Ola 🖖🏾<br>
-###### Atuei como webmaster de 2001 até 2012 criando sites em Flash, Html/Css, Joomla e Wordpress. 💾 <br> Estou voltando para área de tecnologia recentemente e escolhi a _*Trybe*_ para me auxiliar nessa jornada. 🥷🏿 <p> <br> Pretendo desenvolver e participar de projetos que tenham um impacto social.  🌎<p><br>
+###### Atuei como webmaster de 2001 até 2012 criando sites em Flash, Html/Css, Joomla e Wordpress. 💾 <br> Estou voltando para área de tecnologia como front-end vue.js/react.js 🥷🏿 <p> <br> Pretendo desenvolver e participar de projetos que tenham um impacto social.  🌎<p><br>
 
 <div align="center">
         <a href="https://github.com/gustavoUlisses">
