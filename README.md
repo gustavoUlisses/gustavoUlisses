@@ -1,7 +1,3 @@
-
-###### Ola 🖖🏾<br>
-###### Atuei como webmaster de 2001 até 2012 criando sites em Flash, Html/Css, Joomla e Wordpress. 💾 <br> Estou voltando para área de tecnologia como front-end vue.js/react.js com a ajuda do grupo de estudos devNinja 🥷🏿 <p> <br> Pretendo desenvolver e participar de projetos que tenham um impacto social.  🌎<p><br>
-
 <div align="center" valign="top"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
