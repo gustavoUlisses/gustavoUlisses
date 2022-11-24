@@ -2,11 +2,7 @@
 ###### Ola 🖖🏾<br>
 ###### Atuei como webmaster de 2001 até 2012 criando sites em Flash, Html/Css, Joomla e Wordpress. 💾 <br> Estou voltando para área de tecnologia como front-end vue.js/react.js 🥷🏿 <p> <br> Pretendo desenvolver e participar de projetos que tenham um impacto social.  🌎<p><br>
 
-<div align="center">
-        <a href="https://github.com/gustavoUlisses">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoUlisses&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoUlisses&layout=compact&langs_count=7&theme=tokyonight"/>
-      </div>
+
         <div align="center" valign="top"><br>
 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
